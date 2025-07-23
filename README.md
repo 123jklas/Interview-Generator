@@ -30,15 +30,18 @@ This version reflects continued development and enhancements I implemented indep
 
 ## 🚀 Quick Start
 
+### 🔐 Using OpenAI GPT (paid)
+
+1. Sign up at [OpenAI](https://platform.openai.com/)
+2. Go to your [API Keys](https://platform.openai.com/account/api-keys)
+3. Create a `.env` file in your project root:
+
+```env
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
+
 ```bash
 # install dependencies
 pip install -r requirements.txt
-
-# start Ollama server
-ollama serve
-
-# download a model (once)
-ollama run llama3
 
 # run app
 streamlit run main.py
