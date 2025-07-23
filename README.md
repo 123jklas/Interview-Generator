@@ -21,6 +21,13 @@ An AI-powered interview preparation assistant that analyzes your resume and gene
 
 ---
 
+## Team & Credits
+
+This project was originally initiated as a collaboration with Jihyung Park(https://github.com/jihyung803).  
+This version reflects continued development and enhancements I implemented independently.
+
+---
+
 ## 🚀 Quick Start
 
 ```bash
